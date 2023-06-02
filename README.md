@@ -10,3 +10,5 @@ Small and simple project, but complete with front-end and back-end. The idea is 
 - [React](https://react.dev/learn)
 - [Vite](https://vitejs.dev/)
 - [NodeJs](https://nodejs.org/en/docs)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
